@@ -1,3 +1,5 @@
+**Japanese** | [中文](./README-zh.md)
+
 # tolenv
 
 ![tolenv_banner](docs/tolenv_banner.png)
